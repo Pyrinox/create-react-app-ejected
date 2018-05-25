@@ -6,6 +6,8 @@ npx create-react-app create-react-app-ejected
 
 yarn eject
 
+yarn install
+
 added css modules (1)
 
 
